@@ -3,18 +3,18 @@
 A website displaying hiking trails from all over Israel, with useful information about each trail, photos, and recommendations for hikers.
 
 ### 🚀Key Features
-✔️ Search and filter trails by region
+- Search and filter trails by region
 
-✔️ Detailed information about each trail
+- Detailed information about each trail
 
-✔️ Trail map for each route
+- Trail map for each route
 
-✔️ Simple and accessible interface for all users
+- Simple and accessible interface for all users
 
 ### 🛠️Technologies
-✔️ HTML
+- HTML
 
-✔️ CSS
+- CSS
 
 ### 📥Installation Instructions
 **Downloading the Website Files:**
